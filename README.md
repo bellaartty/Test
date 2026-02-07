@@ -1,1 +1,1 @@
-Test assidnment for Junior Fullstack Analyst position
+Test assignment for Junior Fullstack Analyst position
